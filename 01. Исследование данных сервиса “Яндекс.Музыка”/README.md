@@ -1,5 +1,8 @@
 # [Проект: Исследование данных сервиса «‎Яндекс.Музыка»](https://github.com/vaneevruslan/DA_Projects_Yandex/blob/main/01.%20Исследование%20данных%20сервиса%20“Яндекс.Музыка”/yandex_music_research.ipynb)
 
+## Инструменты и навыки
+
+`Python`, `pandas`
 
 ## Задачи проекта
 
