@@ -1,4 +1,4 @@
-# [Проект: Исследование надежности заёмщиков](https://github.com/vaneevruslan/DA_Projects_Yandex/blob/main/02.%20Исследование%20надёжности%20заёмщиков/bank_research.ipynb)
+# [Проект: Анализ убытков приложения ProcrastinatePRO+](https://github.com/vaneevruslan/DA_Projects_Yandex/blob/main/06.%20Анализ%20убытков%20приложения%20ProcrastinatePRO%2B/unit_economics_analysis.ipynb)
 
 ## Инструменты и навыки
 
